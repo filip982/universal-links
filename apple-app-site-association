@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "KTS29DB5CZ.io.verify",
-				"paths": [ "/onboard", "/mobileApp" ]
+				"paths": [ "/onboard/", "/mobileApp/" ]
 			}
 		]
 	}
